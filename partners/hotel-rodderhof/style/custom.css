@@ -1,0 +1,19 @@
+.banner {
+    height: 250px;
+    margin-bottom: -40px;
+}
+
+.logo {
+    padding: 10px;
+}
+
+.logo-bg {
+    border-radius: 12px;
+    background-color: #8c2939;
+    border: 2px #1a1a1a solid;
+}
+
+.dark-mode .logo-bg {
+    border: 2px #f0f0f0 solid;
+    background-color: #8c2939;
+}
